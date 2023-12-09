@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Recipe_Page-Test_2</string>
+    <string name="rating_label">(%d ratings)</string>
+</resources>
